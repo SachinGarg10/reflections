@@ -13,3 +13,7 @@ Ans:
 Ques 4:	How would you collaborate without using Git and Github? What would be easier, and what would be harder?
 
 Ans:
+
+Ques 5:	When would you want to make changes in a separete branch rather than directly in master? What benefits does each approach have?
+
+Ans: 
