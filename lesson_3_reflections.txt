@@ -9,3 +9,7 @@ Ans:
 Ques 3:	What is the benefit of having a copy of the last known state of the remote stored locally?
 
 Ans:
+
+Ques 4:	How would you collaborate without using Git and Github? What would be easier, and what would be harder?
+
+Ans:
